@@ -1,0 +1,8 @@
+{
+    "skip_files": [".tmp", "~$"],
+    "categories": {
+        "图片": [".jpg", ".png", ".gif"],
+        "文档": [".pdf", ".docx"],
+        "压缩包": [".zip", ".rar"]
+    }
+}
